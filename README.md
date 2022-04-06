@@ -10,8 +10,8 @@ this script is a modified version of the samila package, I added a random color 
 ### Result
 ![result image](https://github.com/gerryauditya6/SamilaRT/blob/main/result_img/result.png)
 
+### Note
 You can change the image depth on line 49
-
 <b>g1.save_image(file_adr=filename, depth=2)</b>
 
 ### Original package 
