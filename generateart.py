@@ -1,3 +1,8 @@
+""" Credit : https://github.com/gerryauditya6 
+             https://instagram.com/gerryaudityaa
+             https://twitter.com/particleverse"""
+   
+
 from samila import *
 import uuid
 import random
