@@ -1,6 +1,8 @@
-""" Credit : https://github.com/gerryauditya6 
-             https://instagram.com/gerryaudityaa
-             https://twitter.com/particleverse"""
+""" 
+Credit : https://github.com/gerryauditya6 
+         https://instagram.com/gerryaudityaa
+         https://twitter.com/particleverse
+"""
    
 
 from samila import *
